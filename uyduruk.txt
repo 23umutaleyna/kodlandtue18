@@ -1,0 +1,4 @@
+print("mısır")
+print("hırvatistan")
+print("kenya")
+print("karadağ")
